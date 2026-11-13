@@ -20,7 +20,7 @@
 ```text
    ┌─────────────┐
    │  ▣       ▣  │      UNIT      : M GUNAWAN
-   │     ───     │      ROLE      : Maintenance Planner / Electrical Technician
+   │     ───     │      ROLE      : Maintenance Planner / Electrical Technician / Lecturer IoTs
    └──────┬──────┘      EXPERIENCE: 7+ years, industrial manufacturing & utilities
       ┌───┴───┐         LANGUAGES  : English (fluent) | German (B1) | Indonesian, Acehnese (native)
    ┌──┤  ◎    ├──┐      DEPLOYMENT: any project site
