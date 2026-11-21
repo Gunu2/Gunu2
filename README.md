@@ -19,12 +19,12 @@
 
 ```text
    ┌─────────────┐
-   │  ▣       ▣  │     UNIT         : M GUNAWAN
-   │     ───     │      ROLE         : Lecturer (IoT & Image Processing) / AI Data Trainer / Maintenance Planner
-   └──────┬──────┘      EXPERIENCE    : 7+ years, industrial manufacturing, utilities, AI & academia
-      ┌───┴───┐         LANGUAGES      : English (fluent) | German (B1) | Indonesian, Acehnese (native)
-   ┌──┤  ◎    ├──┐     DEPLOYMENT      : any project site / remote
-   │  └───────┘  │      STATUS          : AVAILABLE
+   │  ▣       ▣ │       UNIT         : M GUNAWAN
+   │     ───     │       ROLE         : Lecturer (IoT & Image Processing) / AI Data Trainer / Maintenance Planner
+   └──────┬──────┘       EXPERIENCE   : 7+ years, industrial manufacturing, utilities, AI & academia
+      ┌───┴───┐          LANGUAGES    : English (fluent) | German (B1) | Indonesian, Acehnese (native)
+   ┌──┤  ◎    ├──┐       DEPLOYMENT   : any project site / remote
+   │  └───────┘  │        STATUS      : AVAILABLE
    └──┘       └──┘
 ```
 
@@ -41,7 +41,7 @@ University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Traine
 | Carbon | **~80 t/year CO₂** reduction targeted by optimization initiatives |
 | Reliability | Fewer breakdowns via schedule optimization and autonomous maintenance |
 | Tooling | Internal engineering documentation tool built as a no-code chatbot |
-<img src="./unit-status.svg" alt="Unit Status" width="100%" />
+
 ---
 
 ## `> modules.loaded`
