@@ -19,12 +19,12 @@
 
 ```text
    ┌─────────────┐
-   │  ▣       ▣  │      UNIT      : M GUNAWAN
-   │     ───     │      ROLE      : Lecturer (IoT & Image Processing) / AI Data Trainer / Maintenance Planner
-   └──────┬──────┘      EXPERIENCE: 7+ years, industrial manufacturing, utilities, AI & academia
-      ┌───┴───┐         LANGUAGES  : English (fluent) | German (B1) | Indonesian, Acehnese (native)
-   ┌──┤  ◎    ├──┐      DEPLOYMENT: any project site / remote
-   │  └───────┘  │      STATUS    : AVAILABLE
+   │  ▣       ▣  │     UNIT        : M GUNAWAN
+   │     ───     │      ROLE        : Lecturer (IoT & Image Processing) / AI Data Trainer / Maintenance Planner
+   └──────┬──────┘      EXPERIENCE  : 7+ years, industrial manufacturing, utilities, AI & academia
+      ┌───┴───┐         LANGUAGES   : English (fluent) | German (B1) | Indonesian, Acehnese (native)
+   ┌──┤  ◎    ├──┐      DEPLOYMENT  : any project site / remote
+   │  └───────┘  │      STATUS      : AVAILABLE
    └──┘       └──┘
 ```
 
