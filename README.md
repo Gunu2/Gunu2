@@ -17,16 +17,9 @@
 
 ## `> unit.status`
 
-```text
-   ┌─────────────┐
-   │  ▣       ▣  │     UNIT        : M GUNAWAN
-   │     ───     │      ROLE        : Lecturer (IoT & Image Processing) / AI Data Trainer / Maintenance Planner
-   └──────┬──────┘      EXPERIENCE  : 7+ years, industrial manufacturing, utilities, AI & academia
-      ┌───┴───┐         LANGUAGES   : English (fluent) | German (B1) | Indonesian, Acehnese (native)
-   ┌──┤  ◎    ├──┐      DEPLOYMENT  : any project site / remote
-   │  └───────┘  │      STATUS      : AVAILABLE
-   └──┘       └──┘
-```
+<img src="./unit-status.svg" alt="Unit Status" width="100%" />
+
+<br/>
 
 University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Trainer & Quality Rater, and Maintenance Planner / Electrical Technician with 7+ years in industrial manufacturing, utilities, and maintenance systems. I bridge industrial engineering with AI/computer vision, teach applied IoT & image processing, train AI models, and build practical tools that make teams faster.
 
@@ -166,9 +159,4 @@ University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Traine
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-gunawn94%40gmail.com-22d3ee?style=for-the-badge&labelColor=0d1522&logo=gmail&logoColor=22d3ee)](mailto:gunawn94@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-m--gunawan-0c7c8a?style=for-the-badge&labelColor=0d1522&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/m-gunawan-174101144)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0c7c8a,100:070b12&section=footer" width="100%" alt=""/>
-
-</div>
+[![Email](
