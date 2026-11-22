@@ -1,83 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:070b12,100:0c7c8a&text=M%20GUNAWAN&fontColor=22d3ee&fontSize=48&fontAlign=50&fontAlignY=50&animation=fadeIn" alt="M Gunawan" width="100%"/>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=%3E+initializing+profile...;Maintenance+Planner;Electrical+Technician;Project+Superintendent;Reliability+%26+Energy+Efficiency" alt="Typing intro" />
-</a>
+<img src="assets/banner.svg" alt="M Gunawan - Lecturer, AI Data Trainer, Maintenance Planner" width="100%"/>
 
 ![status](https://img.shields.io/badge/SYSTEM-ONLINE-34d399?style=flat-square&labelColor=0d1522)
-![role](https://img.shields.io/badge/UNIT-MAINTENANCE%20PLANNER-22d3ee?style=flat-square&labelColor=0d1522)
+![role](https://img.shields.io/badge/UNIT-LECTURER%20%7C%20AI%20%7C%20ENGINEER-22d3ee?style=flat-square&labelColor=0d1522)
 ![exp](https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-fbbf24?style=flat-square&labelColor=0d1522)
 ![base](https://img.shields.io/badge/BASE-INDONESIA-7f95b1?style=flat-square&labelColor=0d1522)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> unit.status`
 
 ```text
    ┌─────────────┐
-   │  ▣       ▣  │      UNIT      : M GUNAWAN
-   │     ───     │      ROLE      : Maintenance Planner / Electrical Technician / Lecturer IoTs
-   └──────┬──────┘      EXPERIENCE: 7+ years, industrial manufacturing & utilities
-      ┌───┴───┐         LANGUAGES  : English (fluent) | German (B1) | Indonesian, Acehnese (native)
-   ┌──┤  ◎    ├──┐      DEPLOYMENT: any project site
-   │  └───────┘  │      STATUS    : AVAILABLE
+   │  ▣       ▣ │       UNIT         : M GUNAWAN
+   │     ───     │       ROLE         : Lecturer (IoT & Image Processing) / AI Data Trainer / Maintenance Planner
+   └──────┬──────┘       EXPERIENCE   : 7+ years, industrial manufacturing, utilities, AI & academia
+      ┌───┴───┐          LANGUAGES    : English (fluent) | German (B1) | Indonesian, Acehnese (native)
+   ┌──┤  ◎    ├──┐       DEPLOYMENT   : any project site / remote
+   │  └───────┘  │        STATUS      : AVAILABLE
    └──┘       └──┘
 ```
 
 University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Trainer & Quality Rater, and Maintenance Planner / Electrical Technician with 7+ years in industrial manufacturing, utilities, and maintenance systems. I bridge industrial engineering with AI/computer vision, teach applied IoT & image processing, train AI models, and build practical tools that make teams faster.
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> impact.log`
 
-| Metric | Result |
-|---|---|
-| Energy | **-5%** annual consumption through power quality analysis |
-| Fuel | **16 KL** boiler fuel saved every two months |
-| Carbon | **~80 t/year CO₂** reduction targeted by optimization initiatives |
-| Reliability | Fewer breakdowns via schedule optimization and autonomous maintenance |
-| Tooling | Internal engineering documentation tool built as a no-code chatbot |
+<div align="center">
+<img src="assets/impact.svg" width="100%" alt="Impact: -5% annual energy, 16 KL boiler fuel saved every two months, ~80 t/year CO2 reduction target, 7+ years experience"/>
+</div>
 
----
+- **Reliability:** fewer breakdowns via schedule optimization and autonomous maintenance
+- **Tooling:** internal engineering documentation tool built as a no-code chatbot
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> modules.loaded`
 
-**AI, Computer Vision & IoT**
-![Image Processing](https://img.shields.io/badge/Image%20Processing-0d1522?style=flat-square&logo=opencv&logoColor=22d3ee)
-![Embedded Systems & IoT](https://img.shields.io/badge/Embedded%20Systems%20%26%20IoT-0d1522?style=flat-square&logo=espressif&logoColor=22d3ee)
-![AI Data Training](https://img.shields.io/badge/AI%20Data%20Training-0d1522?style=flat-square)
-![Video & Image Annotation](https://img.shields.io/badge/Video%20%26%20Image%20Annotation-0d1522?style=flat-square)
-![Quality Rating](https://img.shields.io/badge/Quality%20Rating-0d1522?style=flat-square)
+<div align="center">
+<img src="assets/skills.svg" width="100%" alt="Skills: Image Processing, Embedded Systems and IoT, AI Data Training, Maintenance Planning, LV/MV Panels, Boiler, Compressor, Power Quality, Root Cause Analysis, SOP Development"/>
+</div>
 
-**Planning & coordination**
-![Maintenance Planning](https://img.shields.io/badge/Maintenance%20Planning-0d1522?style=flat-square&logo=target&logoColor=22d3ee)
-![Scheduling](https://img.shields.io/badge/Scheduling-0d1522?style=flat-square&logoColor=22d3ee)
-![Progress Reporting](https://img.shields.io/badge/Progress%20Reporting-0d1522?style=flat-square)
-![Vendor Coordination](https://img.shields.io/badge/Vendor%20Coordination-0d1522?style=flat-square)
-
-**Electrical & utilities**
-![LV/MV Panels](https://img.shields.io/badge/LV%2FMV%20Panels-0d1522?style=flat-square&logo=lightning&logoColor=fbbf24)
-![Boiler](https://img.shields.io/badge/Boiler-0d1522?style=flat-square)
-![Compressor](https://img.shields.io/badge/Compressor-0d1522?style=flat-square)
-![Piping & Tanks](https://img.shields.io/badge/Piping%20%26%20Tanks-0d1522?style=flat-square)
-![Power Quality](https://img.shields.io/badge/Power%20Quality-0d1522?style=flat-square)
-
-**Reliability & safety**
-![Preventive](https://img.shields.io/badge/Preventive%20Maintenance-0d1522?style=flat-square)
-![Predictive](https://img.shields.io/badge/Predictive%20Maintenance-0d1522?style=flat-square)
-![RCA](https://img.shields.io/badge/Root%20Cause%20Analysis-0d1522?style=flat-square)
-![Fire Protection](https://img.shields.io/badge/Fire%20Protection-0d1522?style=flat-square)
-
-**Documentation & tools**
-![SOP](https://img.shields.io/badge/SOP%20Development-0d1522?style=flat-square)
-![Technical Docs](https://img.shields.io/badge/Technical%20Documentation-0d1522?style=flat-square)
-![No-code chatbot](https://img.shields.io/badge/No--code%20Chatbot-0d1522?style=flat-square)
-
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> mission.log`
 
@@ -134,14 +102,14 @@ University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Traine
 - Lubricant filling, packaging and blending per SOP; quality and process monitoring
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> education.db`
 
 - **MSc, Information Technology**: President University (2023 – 2025)
 - **B.Eng, Electrical Power Systems**: University of Jaya Baya, Jakarta (2019 – 2021)
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> github.stats`
 
@@ -160,7 +128,7 @@ University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Traine
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## `> open.channel`
 
@@ -169,6 +137,5 @@ University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Traine
 [![Email](https://img.shields.io/badge/EMAIL-gunawn94%40gmail.com-22d3ee?style=for-the-badge&labelColor=0d1522&logo=gmail&logoColor=22d3ee)](mailto:gunawn94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-m--gunawan-0c7c8a?style=for-the-badge&labelColor=0d1522&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/m-gunawan-174101144)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0c7c8a,100:070b12&section=footer" width="100%" alt=""/>
 
 </div>
