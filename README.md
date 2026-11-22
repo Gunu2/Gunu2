@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:070b12,100:0c7c8a&text=M%20GUNAWAN&fontColor=22d3ee&fontSize=48&fontAlign=50&fontAlignY=50&animation=fadeIn" alt="M Gunawan" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:070b12,100:0c7c8a&text=MUHAMMAD%20GUNAWAN&fontColor=22d3ee&fontSize=48&fontAlign=50&fontAlignY=50&animation=fadeIn" alt="M Gunawan" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=%3E+initializing+profile...;Maintenance+Planner;Electrical+Technician;Project+Superintendent;Reliability+%26+Energy+Efficiency" alt="Typing intro" />
