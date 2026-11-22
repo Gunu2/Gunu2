@@ -28,7 +28,7 @@
    └──┘       └──┘
 ```
 
-Maintenance Planner and Electrical Technician with 7+ years in industrial manufacturing, utilities and maintenance systems. I plan, schedule and monitor maintenance, run project work on site, and build small tools that make engineering teams faster. Currently supporting engineering and international clients as a consultant.
+University Lecturer in Image Processing and Embedded Systems/IoT, AI Data Trainer & Quality Rater, and Maintenance Planner / Electrical Technician with 7+ years in industrial manufacturing, utilities, and maintenance systems. I bridge industrial engineering with AI/computer vision, teach applied IoT & image processing, train AI models, and build practical tools that make teams faster.
 
 ---
 
@@ -45,6 +45,13 @@ Maintenance Planner and Electrical Technician with 7+ years in industrial manufa
 ---
 
 ## `> modules.loaded`
+
+**AI, Computer Vision & IoT**
+![Image Processing](https://img.shields.io/badge/Image%20Processing-0d1522?style=flat-square&logo=opencv&logoColor=22d3ee)
+![Embedded Systems & IoT](https://img.shields.io/badge/Embedded%20Systems%20%26%20IoT-0d1522?style=flat-square&logo=espressif&logoColor=22d3ee)
+![AI Data Training](https://img.shields.io/badge/AI%20Data%20Training-0d1522?style=flat-square)
+![Video & Image Annotation](https://img.shields.io/badge/Video%20%26%20Image%20Annotation-0d1522?style=flat-square)
+![Quality Rating](https://img.shields.io/badge/Quality%20Rating-0d1522?style=flat-square)
 
 **Planning & coordination**
 ![Maintenance Planning](https://img.shields.io/badge/Maintenance%20Planning-0d1522?style=flat-square&logo=target&logoColor=22d3ee)
@@ -75,6 +82,21 @@ Maintenance Planner and Electrical Technician with 7+ years in industrial manufa
 ## `> mission.log`
 
 <details open>
+<summary><b>2026 – present</b> &nbsp;|&nbsp; Lecturer (Image Processing & Embedded Systems / IoT), Almuslim University</summary>
+
+- Teaching undergraduate courses in **Image Processing** and **Embedded Systems & Internet of Things (IoT)**
+- Designing hands-on laboratory practicums, simulations, and applied deep learning / IoT projects
+</details>
+
+<details open>
+<summary><b>2025 – present</b> &nbsp;|&nbsp; AI Data Trainer, Data Annotator & Quality Rater (Mercor, CrowdGen, OneForma, Freelancer)</summary>
+
+- Generalist & Specialist AI Data Trainer for model evaluation, prompt/response grading, and RLHF workflows
+- Video and image data annotation for computer vision and multimodal AI datasets
+- Quality rating and guideline compliance auditing across international AI projects
+</details>
+
+<details>
 <summary><b>2024 – present</b> &nbsp;|&nbsp; Maintenance Planner / Technical Consultation, PT Juang Aceh Teknologi</summary>
 
 - Administrative and engineering technical support, including international clients
@@ -125,8 +147,16 @@ Maintenance Planner and Electrical Technician with 7+ years in industrial manufa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1522&title_color=22d3ee&icon_color=fbbf24&text_color=d6e4f5" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1522&title_color=22d3ee&text_color=d6e4f5" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gunu2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1522&title_color=22d3ee&icon_color=fbbf24&text_color=d6e4f5" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunu2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1522&title_color=22d3ee&text_color=d6e4f5" alt="Top languages" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gunu2/Gunu2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gunu2/Gunu2/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gunu2/Gunu2/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -142,4 +172,3 @@ Maintenance Planner and Electrical Technician with 7+ years in industrial manufa
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0c7c8a,100:070b12&section=footer" width="100%" alt=""/>
 
 </div>
-boleh tolong masukin sini ga biar ga konfik jadi saya ga bingung nanti
